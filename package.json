@@ -21,10 +21,14 @@
     "@storybook/addon-actions": "^6.3.9",
     "@storybook/addon-essentials": "^6.3.9",
     "@storybook/addon-links": "^6.3.9",
+    "@storybook/preset-scss": "^1.0.3",
     "@storybook/react": "^6.3.9",
     "@types/node": "^16.10.2",
     "@types/react": "^17.0.27",
     "babel-loader": "^8.2.2",
+    "css-loader": "5.2.6",
+    "sass-loader": "10.1.1",
+    "style-loader": "2.0.0",
     "typescript": "^4.4.3"
   }
 }
